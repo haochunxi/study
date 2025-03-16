@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "lodash.uniqueid": "^4.0.1",
+    "vue-router": "^4.5.0"
+  }
+}
